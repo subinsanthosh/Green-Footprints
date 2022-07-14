@@ -3,7 +3,7 @@ hello
 # LoginAppFlutter
 A simple login app that I have created for one of my tutorials. I have used `Firebase Authentication` as the authentication provider for this app.
 
-###  :rocket:  My Youtube Tutorial
+###  :rocket: Youtube Tutorial
 - [Simple Login/Signup App Using Flutter & Firebase (Part 1)](https://youtu.be/JfskObsnPk4 "Simple Login/Signup App Using Flutter & Firebase (Part 1)")
 - [Simple Login/Signup App Using Flutter & Firebase (Part 2)](https://youtu.be/xnENO8wqDU0 "Simple Login/Signup App Using Flutter & Firebase (Part 2)")
 
